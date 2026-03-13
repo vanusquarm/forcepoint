@@ -1,0 +1,11 @@
+version: '3.9'
+
+services:
+  merchant-portal:
+    image: checkout-portal:v1.0.0
+    ports:
+      - "3000:3000"  # Map host port 3000 to container port 3000
+    volumes:
+      - .env:/app/.env  # Mount the .env.local file for local development
+    environment:
+      - NODE_ENV=development  # Set environment variable for development mode

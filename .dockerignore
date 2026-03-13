@@ -1,0 +1,36 @@
+# Ignore node_modules (they will be installed inside the container)
+node_modules
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore Next.js build output (except during runtime)
+.next
+out
+
+# Ignore local environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Ignore testing-related files
+coverage
+*.test.*
+*.spec.*
+
+# Ignore editor and system files
+.DS_Store
+.vscode
+.idea
+*.swp
+
+# Ignore Docker-related files that shouldn’t be in the image
+Dockerfile
+.dockerignore
+
+# Ignore Git-related files
+.git
+.gitignore

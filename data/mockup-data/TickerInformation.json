@@ -1,0 +1,10 @@
+[
+  {
+    "Id": 1,
+    "Title": "Testing Ticker",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\r\ntempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\r\nquis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\r\nconsequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\r\ncillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\r\nproident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "Mode": 2,
+    "EntryDate": "2022-05-05T08:09:28.000000Z",
+    "Status": true
+  }
+]

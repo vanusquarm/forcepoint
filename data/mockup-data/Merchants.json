@@ -1,0 +1,72 @@
+[
+  {
+    "Name": "AVES INT ACADEMY LIMITED",
+    "Description": "AVES INT ACADEMY LIMITED",
+    "Status": "ACTIVE",
+    "Category": "Education",
+    "Services": "1"
+  },
+  {
+    "Name": "BLVCK",
+    "Description": "Just a dummy merchant",
+    "Status": "ACTIVE",
+    "Category": "Aviation/Maritime",
+    "Services": "0"
+  },
+  {
+    "Name": "DATABANK",
+    "Description": "Databank",
+    "Status": "ACTIVE",
+    "Category": "Investment/Pensions",
+    "Services": "9"
+  },
+  {
+    "Name": "DHI COLLEGE OF HEALTH AND EDU",
+    "Description": "DHI COLLEGE OF HEALTH AND EDU.",
+    "Status": "ACTIVE",
+    "Category": "Education",
+    "Services": "3"
+  },
+  {
+    "Name": "ECG",
+    "Description": "ECG",
+    "Status": "ACTIVE",
+    "Category": "Utilities",
+    "Services": "3"
+  },
+  {
+    "Name": "GCIHS",
+    "Description": "GCIHS Fees",
+    "Status": "ACTIVE",
+    "Category": "Education",
+    "Services": "4"
+  },
+  {
+    "Name": "GHANA PORTS AND HARBOURS AUTHORITY",
+    "Description": "GHANA PORTS AND HARBOURS AUTHORITY",
+    "Status": "ACTIVE",
+    "Category": "Aviation/Maritime",
+    "Services": "2"
+  },
+  {
+    "Name": "GHANA RENENUE AUTHORITY",
+    "Description": "GHANA RENENUE AUTHORITY",
+    "Status": "ACTIVE",
+    "Category": "Associations",
+    "Services": "1"
+  },
+  {
+    "Name": "GHANA TOURISM AUTHORITY",
+    "Description": "GHANA TOURISM AUTHORITY",
+    "Status": "ACTIVE",
+    "Category": "Media/Conferences",
+    "Services": "3"
+  },
+  {
+    "Name": "GTBANK",
+    "Description": "GTBANK",
+    "Status": "ACTIVE",
+    "Category": "Airtime Topup",
+    "Services": "48"
+  }
+]

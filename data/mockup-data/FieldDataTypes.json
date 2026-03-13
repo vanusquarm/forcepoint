@@ -1,0 +1,94 @@
+[
+    {
+        "name": "Id",
+        "dbType": "integer,true",
+        "htmlType": null,
+        "validations": null,
+        "searchable": false,
+        "fillable": false,
+        "primary": true,
+        "inForm": false,
+        "inIndex": false,
+        "inView": false
+    },
+    {
+        "name": "UserId",
+        "dbType": "string,100",
+        "htmlType": "text",
+        "validations": "required|string|max:100",
+        "searchable": true,
+        "fillable": true,
+        "primary": false,
+        "inForm": true,
+        "inIndex": true,
+        "inView": true
+    },
+    {
+        "name": "PaymentOptionId",
+        "dbType": "integer,false",
+        "htmlType": null,
+        "validations": "nullable|integer",
+        "searchable": true,
+        "fillable": true,
+        "primary": false,
+        "inForm": true,
+        "inIndex": true,
+        "inView": true
+    },
+    {
+        "name": "Label",
+        "dbType": "string,100:nullable",
+        "htmlType": "text",
+        "validations": "nullable|string|max:100",
+        "searchable": true,
+        "fillable": true,
+        "primary": false,
+        "inForm": true,
+        "inIndex": true,
+        "inView": true
+    },
+    {
+        "name": "Status",
+        "dbType": "integer,false",
+        "htmlType": null,
+        "validations": "nullable|integer",
+        "searchable": true,
+        "fillable": true,
+        "primary": false,
+        "inForm": true,
+        "inIndex": true,
+        "inView": true
+    },
+    {
+        "name": "DateCreated",
+        "dbType": "datetime:nullable",
+        "htmlType": "date",
+        "validations": "nullable",
+        "searchable": true,
+        "fillable": true,
+        "primary": false,
+        "inForm": true,
+        "inIndex": true,
+        "inView": true
+    },
+    {
+        "type": "relation",
+        "relation": "mt1,PaymentOption,PaymentOptionId"
+    },
+    {
+        "type": "relation",
+        "relation": "1tm,GTBAccount,UserPaymentOptionId"
+    },
+    {
+        "type": "relation",
+        "relation": "1tm,Transction,UserPaymentOptionId"
+    },
+    {
+        "type": "relation",
+        "relation": "1tm,UserCard,UserPaymentOptionId"
+    },
+    {
+        "type": "relation",
+        "relation": "1tm,Wallet,UserPaymentOptionId"
+    }
+]

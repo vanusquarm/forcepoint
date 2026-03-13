@@ -1,0 +1,64 @@
+[
+  {
+    "Name": "Amos Ngoah",
+    "Email": "amos.ngoah@gtbank.com",
+    "Auth Level": "ADMIN",
+    "Created Date": "7/22/21 11:13",
+    "Action": "    "
+  },
+  {
+    "Name": "Angie Kessler",
+    "Email": "porter63@example.org",
+    "Auth Level": "ADMIN",
+    "Created Date": "3/22/21 10:03",
+    "Action": "   "
+  },
+  {
+    "Name": "Daniel Nanam",
+    "Email": "daniel.nanam@gtbank.com",
+    "Auth Level": "ADMIN",
+    "Created Date": "11/21/22 14:19",
+    "Action": "   "
+  },
+  {
+    "Name": "Dr. Minnie Donnelly",
+    "Email": "fabian.little@example.com",
+    "Auth Level": "ADMIN",
+    "Created Date": "3/22/21 10:03",
+    "Action": "   "
+  },
+  {
+    "Name": "Dzifa Nanam",
+    "Email": "daniel.nanam1@gtbank.com",
+    "Auth Level": "ADMIN",
+    "Created Date": "11/21/22 14:05",
+    "Action": "   "
+  },
+  {
+    "Name": "George Opoku",
+    "Email": "george.opoku@gtbank.com",
+    "Auth Level": "ADMIN",
+    "Created Date": "3/22/21 10:03",
+    "Action": "   "
+  },
+  {
+    "Name": "Iris Ritcher Addo",
+    "Email": "iris.richter-addo@gtbank.com",
+    "Auth Level": "ADMIN",
+    "Created Date": "3/22/21 10:03",
+    "Action": "   "
+  },
+  {
+    "Name": "Prince Nkrumah",
+    "Email": "prince.nkrumah@gtbank.com",
+    "Auth Level": "ADMIN",
+    "Created Date": "3/22/21 10:03",
+    "Action": "   "
+  },
+  {
+    "Name": "Sylvanus Quarm",
+    "Email": "sylvanus.quarm@gtbank.com",
+    "Auth Level": "ADMIN",
+    "Created Date": "10/12/23 8:51"
+  }
+]

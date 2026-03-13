@@ -1,0 +1,104 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+}
+
+.bg-image {
+        background-image: url('../assets/myghpay2.gif');
+        background-size: cover;
+        background-position: center;
+}
+
+/* Custom CSS */
+@media (min-width: 640px) {
+    .bg-image-sm {
+        background-image: url('../assets/myghpay-splash.gif');
+    }
+}
+@media (min-width: 768px) {
+    .bg-image-md {
+        background-image: url('../assets/myghpay2.gif');
+    }
+}
+/* @media (min-width: 1024px) {
+    .bg-image-lg {
+        background-image: url('path/to/image-lg.jpg');
+    }
+}
+@media (min-width: 1280px) {
+    .bg-image-xl {
+        background-image: url('path/to/image-xl.jpg');
+    }
+} */
+
+.custom-select {
+  /* Hide the default arrow */
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  /* Add custom arrow */
+  background-image: url('../assets/arrow.svg'); /* Replace 'arrow.png' with your arrow image */
+  background-position: right center;
+  background-repeat: no-repeat;
+  /* Adjust padding to make space for the arrow */
+  padding-right: 2rem; /* Adjust as needed */
+}
+
+.custom-select2 {
+  /* Hide the default arrow */
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  /* Add custom arrow */
+  background-image: url('../assets/filter.svg'); /* Replace 'arrow.png' with your arrow image */
+  background-position: right center;
+  background-repeat: no-repeat;
+  /* Adjust padding to make space for the arrow */
+  padding-right: 2rem; /* Adjust as needed */
+}
+
+/* custom scrollbar */
+/* width */
+::-webkit-scrollbar {
+    width: 8px;
+}
+ 
+/* Track */
+::-webkit-scrollbar-track {
+    background: white;
+    border-radius: 4px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 4px;
+}
+ 
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}

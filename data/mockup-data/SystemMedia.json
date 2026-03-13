@@ -1,0 +1,29 @@
+[
+  {
+    "Type": "slider",
+    "Sequence": "1",
+    "Name": "myghpay-linkedin.jpg",
+    "Status": "ACTIVE",
+    "Action": "  "
+  },
+  {
+    "Type": "slider",
+    "Sequence": "2",
+    "Name": "home-slide1.jpg",
+    "Status": "ACTIVE",
+    "Action": "  "
+  },
+  {
+    "Type": "slider",
+    "Sequence": "3",
+    "Name": "home-slide2.jpg",
+    "Status": "ACTIVE",
+    "Action": "  "
+  },
+  {
+    "Type": "slider",
+    "Sequence": "4",
+    "Name": "home-slide3.jpg",
+    "Status": "ACTIVE"
+  }
+]

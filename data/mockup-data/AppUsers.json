@@ -1,0 +1,92 @@
+[
+  {
+    "UserId": "efbd3a0c-ed71-45d1-bae0-f6b90a584733",
+    "Name": "Kwame Obed",
+    "Email": "obedmarvin@outlook.com",
+    "PhoneNumber": "233271239748",
+    "Status": "ACTIVE",
+    "DateCreated": "31st Jul 2023 15:37:29",
+    "Action": ""
+  },
+  {
+    "UserId": "095a6735-a86b-4930-9ab6-1a36d641f12a",
+    "Name": "Obed Marvin",
+    "Email": "obed.dodoo@gtbank.com",
+    "PhoneNumber": "233543501494",
+    "Status": "ACTIVE",
+    "DateCreated": "5th Jul 2023 13:31:15",
+    "Action": ""
+  },
+  {
+    "UserId": "a86dccb0-86a4-448f-9d96-bf3f63b6328d",
+    "Name": "Eric Dampson",
+    "Email": "eric.dampson@gtbank.com",
+    "PhoneNumber": "233243280585",
+    "Status": "ACTIVE",
+    "DateCreated": "7th Mar 2023 00:00:00",
+    "Action": ""
+  },
+  {
+    "UserId": "38b4e4b8-7823-4a51-b10a-a0b28936c44c",
+    "Name": "Godwin Kweku Dosey",
+    "Email": "kwekudosey@gmail.com",
+    "PhoneNumber": "233205523796",
+    "Status": "ACTIVE",
+    "DateCreated": "27th Jan 2023 14:53:16",
+    "Action": ""
+  },
+  {
+    "UserId": "97246c68-ba3a-4135-9a10-6aa9c8f3c7d4",
+    "Name": "Gad",
+    "Email": "scottpentoney09@mail.com",
+    "PhoneNumber": "233205523769",
+    "Status": "INACTIVE",
+    "DateCreated": "27th Jan 2023 10:02:32",
+    "Action": ""
+  },
+  {
+    "UserId": "b82cf289-9394-4919-a864-65dc1c16609c",
+    "Name": "BEN",
+    "Email": "email@gmail.com",
+    "PhoneNumber": "233556997817",
+    "Status": "ACTIVE",
+    "DateCreated": "25th Nov 2022 12:48:49",
+    "Action": ""
+  },
+  {
+    "UserId": "36afbf1c-d9db-4a0a-9780-b6742bc941db",
+    "Name": "Ofoe Kofi Hadjor",
+    "Email": "ofoehadjor@gmail.com",
+    "PhoneNumber": "233504128328",
+    "Status": "ACTIVE",
+    "DateCreated": "22nd Sep 2022 12:38:52",
+    "Action": ""
+  },
+  {
+    "UserId": "95131b8c-2dac-4932-bd3a-e822a1a1df0a",
+    "Name": "Testing Issah",
+    "Email": "imuniru@st.ug.edu.gh",
+    "PhoneNumber": "233246596218",
+    "Status": "ACTIVE",
+    "DateCreated": "3rd Aug 2022 11:24:10",
+    "Action": ""
+  },
+  {
+    "UserId": "e33726a9-8781-4ae2-bcb0-8f71fe52dac0",
+    "Name": "Issah Test",
+    "Email": "munirissah2092@gmail.com",
+    "PhoneNumber": "233505707987",
+    "Status": "ACTIVE",
+    "DateCreated": "3rd Mar 2022 16:11:38",
+    "Action": ""
+  },
+  {
+    "UserId": "2d668f22-b07f-4d11-997e-a318ebb6e454",
+    "Name": "Foli foli",
+    "Email": "isaac.yemoh@gtbank.com",
+    "PhoneNumber": "233274091065",
+    "Status": "ACTIVE",
+    "DateCreated": "31st Aug 2021 11:10:35",
+    "Action": ""
+  }
+]

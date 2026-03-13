@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "serviceName": "Airtime Topup",
+    "serviceCategoriesId": 1,
+    "serviceCode": "airtime",
+    "status": true
+  },
+  {
+    "id": 4,
+    "serviceName": "DSTV",
+    "serviceCategoriesId": 2,
+    "serviceCode": "dstv",
+    "status": true
+  },
+  {
+    "id": 6,
+    "serviceName": "GOTV",
+    "serviceCategoriesId": 2,
+    "serviceCode": "gotv",
+    "status": true
+  },
+  {
+    "id": 7,
+    "serviceName": "Ghana Water Payment",
+    "serviceCategoriesId": 2,
+    "serviceCode": "gwcl",
+    "status": true
+  },
+  {
+    "id": 8,
+    "serviceName": "ECG Postpaid Payment",
+    "serviceCategoriesId": 2,
+    "serviceCode": "ecg",
+    "status": true
+  },
+  {
+    "id": 9,
+    "serviceName": "BOX OFFICE",
+    "serviceCategoriesId": 2,
+    "serviceCode": "box_office",
+    "status": true
+  },
+  {
+    "id": 10,
+    "serviceName": "DATABANK MFUND",
+    "serviceCategoriesId": 3,
+    "serviceCode": "mfund",
+    "status": true
+  },
+  {
+    "id": 11,
+    "serviceName": "DATABANK EPACK",
+    "serviceCategoriesId": 3,
+    "serviceCode": "epack",
+    "status": true
+  },
+  {
+    "id": 12,
+    "serviceName": "DATABANK BFUND",
+    "serviceCategoriesId": 3,
+    "serviceCode": "bfund",
+    "status": true
+  },
+  {
+    "id": 13,
+    "serviceName": "STUDENT LOAN TRUST FUND",
+    "serviceCategoriesId": 4,
+    "serviceCode": "sltf",
+    "status": true
+  },
+  {
+    "id": 14,
+    "serviceName": "Bank Transfer",
+    "serviceCategoriesId": 9,
+    "serviceCode": "banktrf",
+    "status": true
+  },
+  {
+    "id": 15,
+    "serviceName": "Credit Wallet",
+    "serviceCategoriesId": 9,
+    "serviceCode": "CREDITWALLET",
+    "status": true
+  },
+  {
+    "id": 16,
+    "serviceName": "Debit Wallet",
+    "serviceCategoriesId": 9,
+    "serviceCode": "DEBITWALLET",
+    "status": true
+  },
+  {
+    "id": 17,
+    "serviceName": "GHQR",
+    "serviceCategoriesId": 9,
+    "serviceCode": "GH_QR",
+    "status": true
+  },
+  {
+    "id": 20,
+    "serviceName": "Near Real Time ACH",
+    "serviceCategoriesId": 9,
+    "serviceCode": "banktrfnrt",
+    "status": true
+  },
+  {
+    "id": 21,
+    "serviceName": "ECGBTPV_PREPAID",
+    "serviceCategoriesId": 2,
+    "serviceCode": "ECGBTPV_PREPAID",
+    "status": true
+  },
+  {
+    "id": 22,
+    "serviceName": "ECGBTPV_POSTPAID",
+    "serviceCategoriesId": 2,
+    "serviceCode": "ECGBTPV_POSTPAID",
+    "status": true
+  },
+  {
+    "id": 23,
+    "serviceName": "UG_PAY",
+    "serviceCategoriesId": 4,
+    "serviceCode": "UG_PAY",
+    "status": true
+  }
+]

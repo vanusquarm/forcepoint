@@ -1,0 +1,128 @@
+[
+  {
+    "Id": 1,
+    "Title": "Airtime Topup",
+    "Type": 1,
+    "Icon": "phone.png",
+    "SequenceNumber": 1
+  },
+  {
+    "Id": 2,
+    "Title": "Internet Bundle",
+    "Type": 1,
+    "Icon": "internet.png",
+    "SequenceNumber": 2
+  },
+  {
+    "Id": 3,
+    "Title": "Mobile Money",
+    "Type": 1,
+    "Icon": "transfer.png",
+    "SequenceNumber": 3
+  },
+  {
+    "Id": 4,
+    "Title": "Investment/Pensions",
+    "Type": 2,
+    "Icon": "investment.png",
+    "SequenceNumber": 6
+  },
+  {
+    "Id": 5,
+    "Title": "Insurance",
+    "Type": 2,
+    "Icon": "insurance.png",
+    "SequenceNumber": 7
+  },
+  {
+    "Id": 6,
+    "Title": "Utilities",
+    "Type": 1,
+    "Icon": "electricity.png",
+    "SequenceNumber": 5
+  },
+  {
+    "Id": 7,
+    "Title": "Education",
+    "Type": 2,
+    "Icon": "education.png",
+    "SequenceNumber": 8
+  },
+  {
+    "Id": 8,
+    "Title": "Aviation/Maritime",
+    "Type": 2,
+    "Icon": "airlines.png",
+    "SequenceNumber": 9
+  },
+  {
+    "Id": 9,
+    "Title": "Churches",
+    "Type": 2,
+    "Icon": "church.png",
+    "SequenceNumber": 10
+  },
+  {
+    "Id": 10,
+    "Title": "Health Services",
+    "Type": 2,
+    "Icon": "health.png",
+    "SequenceNumber": 11
+  },
+  {
+    "Id": 11,
+    "Title": "Supermarkets",
+    "Type": 2,
+    "Icon": "shop.png",
+    "SequenceNumber": 12
+  },
+  {
+    "Id": 12,
+    "Title": "Network Marketing",
+    "Type": 2,
+    "Icon": "network-marketing.png",
+    "SequenceNumber": 13
+  },
+  {
+    "Id": 13,
+    "Title": "Media/Conferences",
+    "Type": 2,
+    "Icon": "media.png",
+    "SequenceNumber": 14
+  },
+  {
+    "Id": 14,
+    "Title": "Charity/Donations",
+    "Type": 2,
+    "Icon": "donation.png",
+    "SequenceNumber": 15
+  },
+  {
+    "Id": 15,
+    "Title": "Associations",
+    "Type": 2,
+    "Icon": "associations.png",
+    "SequenceNumber": 16
+  },
+  {
+    "Id": 16,
+    "Title": "Real Estate",
+    "Type": 2,
+    "Icon": "real-estate.png",
+    "SequenceNumber": 17
+  },
+  {
+    "Id": 17,
+    "Title": "Transfer To Bank",
+    "Type": 1,
+    "Icon": "transfertobank.png",
+    "SequenceNumber": 4
+  },
+  {
+    "Id": 18,
+    "Title": "Gift Cards",
+    "Type": 1,
+    "Icon": "gift-card.png",
+    "SequenceNumber": 6
+  }
+]

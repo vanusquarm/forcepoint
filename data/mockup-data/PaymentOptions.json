@@ -1,0 +1,13 @@
+[
+  { "Id": 1, "Name": "GTBank Account", "Status": 1, "ModeName": "BankAccount" },
+  { "Id": 2, "Name": "VISA", "Status": 1, "ModeName": "Card" },
+  { "Id": 3, "Name": "MASTERCARD", "Status": 1, "ModeName": "Card" },
+  { "Id": 4, "Name": "MTN Mobile Money", "Status": 1, "ModeName": "mtn" },
+  {
+    "Id": 5,
+    "Name": "AIRTELTIGO Money",
+    "Status": 0,
+    "ModeName": "airteltigo"
+  },
+  { "Id": 6, "Name": "VODAFONE Cash", "Status": 1, "ModeName": "vodafone" }
+]
